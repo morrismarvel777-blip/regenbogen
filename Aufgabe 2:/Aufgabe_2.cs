@@ -12,7 +12,7 @@ string input = Console.ReadLine();
 
 if (int.TryParse(input, out tage))
 {
-    // Eingabe ist eine gültige Ganzzahl
+    
 }
 else
 {
